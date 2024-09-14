@@ -13,7 +13,7 @@ Boardly empowers you to navigate the expansive web3 world, across multiple chain
 
 - **Universal Following System**: Follow other users and their boards based on Universal Profiles, fostering connection and knowledge sharing.
 
-[Checking MVP Demo](https://alpha.boardly.xyz)
+[Checkout MVP Demo](https://alpha.boardly.xyz)
 
 ## Key Features
 
